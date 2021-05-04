@@ -26,6 +26,8 @@ Conteúdos abordados:
 
 - Você precisa voltar um arquivo para um determinado momento da linha do tempo
 
+- Você precisa recuperar algo deletado
+
 
 
 
