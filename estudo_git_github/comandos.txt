@@ -11,3 +11,4 @@ git branch - gerenciar novas linhas do tempo
 git checkout - manipula as linhas do tempo
 git merge - unir linhas do tempo
 git push - envia alterações locais para o repositório remoto
+git commit -am "<comentário>" - realizar o git add .  e commit ao mesmo tempo.

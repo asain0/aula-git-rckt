@@ -52,3 +52,5 @@ git remote - v - exibe os mapeamentos dos repositórios remotos
 git push <projeto> <ramificação> - envia o repositório local para o repositório remoto
 
 git clone <endereço> - copia um projeto remoto para o seu repositório local
+
+git commit -am "<comentário>" - realizar o git add .  e commit ao mesmo tempo.
