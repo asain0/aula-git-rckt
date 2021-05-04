@@ -1,5 +1,5 @@
 Estudo dos comandos git, através do vídeo da Rocketseat
-
+Autor: Maik Brito - Link da aula:
 https://www.youtube.com/watch?v=2alg7MQ6_sI&t=33s
 
 Conteúdos abordados:
