@@ -10,3 +10,15 @@ Conteúdos abordados:
 
 
 
+-------
+
+Comandos:
+
+git add <nome do arquivo> - Adiciona o arquivo ao projeto
+
+git commit -m "<mensagem>" - cria o ponto da história do projeto
+
+git log - exibe os pontos da história do projeto
+
+git status - Verifica a situação dos arquivos que estão no projeto e se algum arquivo não foi inserido.
+
