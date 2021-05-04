@@ -22,3 +22,5 @@ git log - exibe os pontos da história do projeto
 
 git status - Verifica a situação dos arquivos que estão no projeto e se algum arquivo não foi inserido.
 
+*Ao realizar uma alteração, é necessário informar ao git que a alteração será válida, utilizando o git add. Em seguida usar o git commit para acrescentar ao projeto*
+
