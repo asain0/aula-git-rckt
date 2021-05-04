@@ -55,3 +55,8 @@ git push <projeto> <ramificação> - envia o repositório local para o repositó
 git clone <endereço> - copia um projeto remoto para o seu repositório local
 
 git commit -am "<comentário>" - realizar o git add .  e commit ao mesmo tempo.
+
+**Sempre que estiver trabalhando em equipe, recomenda-se que antes de enviar o repositório local para o repositório remoto, usar o git pull primeiro, para verificar se existem atualizações no repositório remoto.**
+
+git merge <ramificação> - une a ramificação mencionada com a ramificação atual. Essa união pode gerar conflitos que terão de ser tratados conforme sua natureza.
+
