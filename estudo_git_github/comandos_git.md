@@ -23,7 +23,7 @@ Conteúdos abordados:
 
 Comandos:
 
-git add <nome do arquivo> - Adiciona o arquivo ao projeto
+git add <nome do arquivo> - Adiciona o arquivo ou as alterações do arquivo ao projeto. Para inserir todos os arquivos e alterações, é possível colocar o ponto "." ao invés do nome do arquivo.
 
 git commit -m "<mensagem>" - cria o ponto da história do projeto
 
