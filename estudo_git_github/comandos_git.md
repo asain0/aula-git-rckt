@@ -13,6 +13,7 @@ Conteúdos abordados:
 - Você começa uma nova funcionalidade no seu projeto, sem estragar o que já foi feito.
 - Você adiciona as novas funcionalidades ao seu projeto em produção.
 - Você quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.
+- Você quer colocar o projeto na nuvem
 
 
 
@@ -39,3 +40,11 @@ branch: é uma ramificação do seu projeto. Cada projeto costumam ter várias r
 git branch <nome da ramificação> - cria uma nova ramificação no projeto.
 
 git checkout <localização> - permite navegar entre os pontos da história ou ramificações.
+
+git branch -D <nome da ramificação> - remove a branch do projeto.
+
+git remote add <projeto> <endereço remoto> - vincula um repositório remoto
+
+git remote - v - exibe os mapeamentos dos repositórios remotos
+
+git push <projeto> <ramificação> - envia o repositório local para o repositório remoto
