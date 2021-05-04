@@ -24,3 +24,5 @@ git status - Verifica a situação dos arquivos que estão no projeto e se algum
 
 *Ao realizar uma alteração, é necessário informar ao git que a alteração será válida, utilizando o git add. Em seguida usar o git commit para acrescentar ao projeto*
 
+git show <hash do ponto da história> - visualiza as ações realizadas naquele ponto da história, como por exemplo o acréscimo ou remoção de uma informação.
+
