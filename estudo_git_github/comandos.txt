@@ -1,0 +1,20 @@
+Lista de comandos
+
+
+git add <nome do arquivo> - Adiciona o arquivo ao projeto
+
+git commit -m "<mensagem>" - cria o ponto da história do projeto
+
+git log - exibe os pontos da história do projeto
+
+git status - Verifica a situação dos arquivos que estão no projeto e se algum arquivo não foi inserido.
+
+*Ao realizar uma alteração, é necessário informar ao git que a alteração será válida, utilizando o git add. Em seguida usar o git commit para acrescentar ao projeto*
+
+git show <hash do ponto da história> - visualiza as ações realizadas naquele ponto da história, como por exemplo o acréscimo ou remoção de uma informação. Caso seja colocado sem o hash, será exibida apenas o último ponto da história
+
+branch: é uma ramificação do seu projeto. Cada projeto costumam ter várias ramificações, conforme a conveniência.
+
+git branch <nome da ramificação> - cria uma nova ramificação no projeto.
+
+git checkout <localização> - permite navegar entre os pontos da história ou ramificações.
