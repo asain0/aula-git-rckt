@@ -16,6 +16,7 @@ Conteúdos abordados:
 - Você quer colocar o projeto na nuvem
 - Você vai pegar um projeto já iniciado, para trabalhar com o time
 - Você precisa resolver um conflito
+- Antes de enviar a resolução, precisamos atualizar o projeto local.
 
 
 
