@@ -14,6 +14,8 @@ Conteúdos abordados:
 - Você adiciona as novas funcionalidades ao seu projeto em produção.
 - Você quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.
 - Você quer colocar o projeto na nuvem
+- Você vai pegar um projeto já iniciado, para trabalhar com o time
+- Você precisa resolver um conflito
 
 
 
@@ -48,3 +50,5 @@ git remote add <projeto> <endereço remoto> - vincula um repositório remoto
 git remote - v - exibe os mapeamentos dos repositórios remotos
 
 git push <projeto> <ramificação> - envia o repositório local para o repositório remoto
+
+git clone <endereço> - copia um projeto remoto para o seu repositório local
