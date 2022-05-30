@@ -1,0 +1,24 @@
+*{
+    background-color: thistle;
+
+    margin: 0;
+    padding: 0;
+
+    border: 1px solid red;
+}
+
+
+body{
+    display: block;
+    
+}
+form{
+    width: 500px;
+    height: 500px;
+    border-radius: 5px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
